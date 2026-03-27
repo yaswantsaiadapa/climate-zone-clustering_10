@@ -1,0 +1,6 @@
+Event_Type,Detection_Method,Threshold,Events_Detected,Top_Cities
+Heatwaves,Percentile,Temp > 34C (95th percentile),6221,"New Delhi 42C, Riyadh 39C, Dhaka 38.4C"
+Coldwaves,Percentile,Temp < 2.7C (5th percentile),6317,"Canberra -1C, Santiago 1C"
+Heavy Rainfall,Z-score,Z > 3,1774,—
+Strong Wind,Z-score,Z > 3,198,—
+Dangerous Pollution,Z-score,PM2.5 Z > 3,1953,—

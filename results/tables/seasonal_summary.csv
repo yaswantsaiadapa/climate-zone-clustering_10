@@ -1,0 +1,5 @@
+Season,Avg_Temp_C,Avg_Humidity_pct,Avg_Precip_mm,Avg_Wind_kph,Avg_PM2.5,Total_Records,Heatwaves,Coldwaves
+Spring,22.3,63.0,0.14,13.5,27.8,21216,1319,296
+Summer,25.8,62.1,0.15,13.7,21.2,35365,3790,81
+Autumn,21.6,68.4,0.14,12.2,22.7,35435,848,896
+Winter,16.6,70.2,0.11,12.7,27.8,34460,264,5044
