@@ -37,7 +37,7 @@ Global weather data is collected from hundreds of cities worldwide in large volu
 **Format:** CSV  
 **File name:** `GlobalWeatherRepository.csv`
 
-> The dataset is publicly available on Kaggle. Do NOT upload the CSV to this repository. Download it from the link above and place it in the `data/` folder before running the scripts.
+> The dataset is publicly available on Kaggle. Download it from the link above and place it in the `data/` folder before running the scripts.
 
 ### Dataset Structure (Sample Row)
 
@@ -193,7 +193,7 @@ Features dropped: Fahrenheit/mph/inch duplicates, feels_like (derived), conditio
 ## Key Visualizations
 
 ### Elbow Method — Selecting K=4
-![Elbow Method](results/figures/Elbow_method_image.png)
+![Elbow Method](results/figures/Elbow method image.png)
 
 ### K-Means Cluster Visualization (PCA-reduced)
 ![K-Means Clustering](results/figures/K_clustering_visualization.png)
