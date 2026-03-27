@@ -4,10 +4,10 @@
 
 | Roll Number | Name |
 |---|---|
-| 001 | A. Yaswant Sai |
-| 002 | Ch. Varun Chowdary |
-| 003 | P Mashub |
-| 004 | K Sai Nihal |
+| 2023BCS0030 | A. Yaswant Sai |
+| 2023BCS0075 | Ch. Varun Chowdary |
+| 2023BCS0174 | P Mashub |
+| 2023BCD0045 | K Sai Nihal |
 
 ---
 
