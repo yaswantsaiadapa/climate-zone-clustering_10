@@ -193,7 +193,7 @@ Features dropped: Fahrenheit/mph/inch duplicates, feels_like (derived), conditio
 ## Key Visualizations
 
 ### Elbow Method — Selecting K=4
-![Elbow Method](results/figures/Elbow method image.png)
+![Elbow Method](results/figures/Elbow_method_image.png)
 
 ### K-Means Cluster Visualization (PCA-reduced)
 ![K-Means Clustering](results/figures/K_clustering_visualization.png)
